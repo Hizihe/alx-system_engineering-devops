@@ -1,1 +1,1 @@
- script that copies all the HTML files
+script that changes the working directory to the user’s home directory
