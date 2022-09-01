@@ -1,1 +1,1 @@
-script that changes the owner of the file hello to betty
+script that changes the owner of the file 
